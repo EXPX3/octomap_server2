@@ -1,0 +1,9 @@
+repositories:
+  octomap_msgs:
+    type: git
+    url: https://github.com/OctoMap/octomap_msgs.git
+    version: ros2
+  rslidar_pointcloud_filter:
+    type: git
+    url: https://github.com/mahdichalaki/rslidar_pointcloud_filter.git
+    version: main
