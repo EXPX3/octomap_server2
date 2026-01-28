@@ -7,7 +7,7 @@ namespace octomap_server {
         const std::string node_name):
         Node(node_name, options),
         m_octree(NULL),
-        m_maxRange(20),
+        m_maxRange(100.0),
         m_worldFrameId("/world_ned"),
         m_baseFrameId("base_footprint"),
         m_useHeightMap(true),
