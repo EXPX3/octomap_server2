@@ -14,4 +14,4 @@ repositories:
   my_octomap_converter:
     type: git
     url: https://github.com/EXPX3/my_octomap_converter.git
-    version:main
+    version: main
