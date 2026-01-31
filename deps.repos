@@ -11,7 +11,3 @@ repositories:
     type: git
     url: https://github.com/ros-perception/pcl_msgs.git
     version: ros2
-  my_octomap_converter:
-    type: git
-    url: https://github.com/EXPX3/my_octomap_converter.git
-    version: main
